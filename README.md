@@ -6,7 +6,7 @@ The main reason scientists decided to look at DNA as an alternative storage medi
 
 The thesis provides:
 - compiled a comprehensive guide for electrical engineers to jump-start the topic of DNA as storage, and basic prerequisite biology and computer science;
-- a virtual simulation of the system on Python - [repo](https://github.com/feeka/mt_dna_as_storage/;
+- a virtual simulation of the system on Python - [repo](https://github.com/feeka/mt_dna_as_storage/);
 - a unique way of encoding data, such that when collected back together, it is possible to detect erroneous parts of sequenced DNA. 
 
 We conducted an empirical analysis of a toy-parameter example, assuming the parameters were proportional to their real-world counterparts (at the time, the field was coming up). A thesis serves as a comprehensive guide for communication specialists or bioinformaticians on the basics of DNA as a storage medium. 
